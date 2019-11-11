@@ -1,0 +1,3 @@
+# Requests user’s name as input and welcomes them
+name = input("What is your name?")
+print("Hello", name)
